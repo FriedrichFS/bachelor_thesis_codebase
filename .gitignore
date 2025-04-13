@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.whl
+*.egg
+*.egg-info/
+dist/
+build/
+*.env
+.env
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# C++
+*.o
+*.obj
+*.so
+*.exe
+*.dll
+*.out
+*.a
+*.dSYM/
+*.class
+
+# Pandas / Numpy
+*.csv
+*.h5
+*.npz
+*.npy
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
